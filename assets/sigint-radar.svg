@@ -1,1 +1,141 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .grid {
+      stroke: #1f2937;
+      stroke-width: 1;
+      opacity: 0.45;
+    }
+
+```
+.amber {
+  stroke: #f59e0b;
+  fill: none;
+}
+
+.red {
+  stroke: #dc2626;
+  fill: none;
+}
+
+.text-main {
+  fill: #f8fafc;
+  font-family: "JetBrains Mono", "Consolas", monospace;
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.text-sub {
+  fill: #f59e0b;
+  font-family: "JetBrains Mono", "Consolas", monospace;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+.text-muted {
+  fill: #94a3b8;
+  font-family: "JetBrains Mono", "Consolas", monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+.pulse {
+  animation: pulse 2.6s ease-in-out infinite;
+  transform-origin: center;
+}
+
+.sweep {
+  animation: rotate 4s linear infinite;
+  transform-origin: 980px 130px;
+}
+
+.blink {
+  animation: blink 1.2s steps(2, start) infinite;
+}
+
+.scan {
+  animation: scan 4s linear infinite;
+}
+
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.35; }
+  50% { opacity: 1; }
+}
+
+@keyframes blink {
+  0%, 45% { opacity: 1; }
+  46%, 100% { opacity: 0.15; }
+}
+
+@keyframes scan {
+  0% { transform: translateY(-260px); opacity: 0; }
+  20% { opacity: 0.45; }
+  80% { opacity: 0.45; }
+  100% { transform: translateY(260px); opacity: 0; }
+}
+```
+
+  </style>
+
+  <rect width="1200" height="260" rx="16" fill="#030712"/>
+
+  <g opacity="0.8">
+    <path class="grid" d="M0 40H1200"/>
+    <path class="grid" d="M0 80H1200"/>
+    <path class="grid" d="M0 120H1200"/>
+    <path class="grid" d="M0 160H1200"/>
+    <path class="grid" d="M0 200H1200"/>
+    <path class="grid" d="M0 240H1200"/>
+
+```
+<path class="grid" d="M80 0V260"/>
+<path class="grid" d="M160 0V260"/>
+<path class="grid" d="M240 0V260"/>
+<path class="grid" d="M320 0V260"/>
+<path class="grid" d="M400 0V260"/>
+<path class="grid" d="M480 0V260"/>
+<path class="grid" d="M560 0V260"/>
+<path class="grid" d="M640 0V260"/>
+<path class="grid" d="M720 0V260"/>
+<path class="grid" d="M800 0V260"/>
+<path class="grid" d="M880 0V260"/>
+<path class="grid" d="M960 0V260"/>
+<path class="grid" d="M1040 0V260"/>
+<path class="grid" d="M1120 0V260"/>
+```
+
+  </g>
+
+  <rect x="28" y="28" width="1144" height="204" rx="12" stroke="#1f2937"/>
+  <rect x="40" y="40" width="1120" height="180" rx="8" stroke="#7c2d12" opacity="0.6"/>
+
+  <line class="scan" x1="40" y1="0" x2="1160" y2="0" stroke="#f59e0b" stroke-width="2" opacity="0.35"/>
+
+<text x="70" y="72" class="text-sub">CLASSIFICATION // OPEN PROFILE</text> <text x="70" y="122" class="text-main">PEDRO LIMA</text> <text x="70" y="154" class="text-sub">RED TEAM // THREAT INTEL // APPSEC // OSINT</text> <text x="70" y="188" class="text-muted">RECON BEFORE ACTION · CONTEXT BEFORE EXPLOITATION · EVIDENCE BEFORE CONCLUSION</text>
+
+  <g transform="translate(980 130)">
+    <circle r="82" class="amber" opacity="0.35"/>
+    <circle r="58" class="amber" opacity="0.45"/>
+    <circle r="34" class="amber" opacity="0.65"/>
+    <circle r="5" fill="#f59e0b" class="pulse"/>
+
+```
+<g class="sweep">
+  <path d="M0 0 L82 0" stroke="#f59e0b" stroke-width="3"/>
+  <path d="M0 0 L70 18" stroke="#f59e0b" stroke-width="1" opacity="0.35"/>
+</g>
+
+<circle cx="-44" cy="-22" r="4" fill="#dc2626" class="blink"/>
+<circle cx="38" cy="30" r="3" fill="#f59e0b" class="pulse"/>
+<circle cx="18" cy="-48" r="3" fill="#f59e0b" class="blink"/>
+```
+
+  </g>
+
+<text x="895" y="230" class="text-muted">SIGNAL: ACTIVE</text> <text x="70" y="230" class="text-muted">CALLSIGN: PL-SEC</text> </svg>
 
