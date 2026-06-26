@@ -1,1 +1,83 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #030712; }
+    .grid { stroke: #1f2937; opacity: 0.5; }
+    .wave {
+      stroke: #f59e0b;
+      stroke-width: 3;
+      fill: none;
+      stroke-dasharray: 18 14;
+      animation: dash 2s linear infinite;
+    }
+    .wave2 {
+      stroke: #dc2626;
+      stroke-width: 2;
+      fill: none;
+      opacity: 0.55;
+      stroke-dasharray: 10 18;
+      animation: dash2 2.8s linear infinite;
+    }
+    .text {
+      fill: #f59e0b;
+      font-family: "JetBrains Mono", "Consolas", monospace;
+      font-size: 13px;
+      letter-spacing: 3px;
+    }
+    .muted {
+      fill: #94a3b8;
+      font-family: "JetBrains Mono", "Consolas", monospace;
+      font-size: 11px;
+      letter-spacing: 1px;
+    }
+    .pulse {
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+    .blink {
+      animation: blink 1.2s steps(2, start) infinite;
+    }
+    @keyframes dash {
+      to { stroke-dashoffset: -64; }
+    }
+    @keyframes dash2 {
+      to { stroke-dashoffset: 72; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 1; }
+    }
+    @keyframes blink {
+      0%, 45% { opacity: 1; }
+      46%, 100% { opacity: 0.2; }
+    }
+  </style>
+
+  <rect width="1200" height="130" rx="14" class="bg"/>
+
+  <g>
+    <path d="M0 32H1200" class="grid"/>
+    <path d="M0 65H1200" class="grid"/>
+    <path d="M0 98H1200" class="grid"/>
+    <path d="M100 0V130" class="grid"/>
+    <path d="M200 0V130" class="grid"/>
+    <path d="M300 0V130" class="grid"/>
+    <path d="M400 0V130" class="grid"/>
+    <path d="M500 0V130" class="grid"/>
+    <path d="M600 0V130" class="grid"/>
+    <path d="M700 0V130" class="grid"/>
+    <path d="M800 0V130" class="grid"/>
+    <path d="M900 0V130" class="grid"/>
+    <path d="M1000 0V130" class="grid"/>
+    <path d="M1100 0V130" class="grid"/>
+  </g>
+
+<text x="45" y="32" class="text">SIGNAL STREAM // ACTIVE</text> <text x="45" y="112" class="muted">RECON · INTEL · VALIDATION · EVIDENCE · REPORT</text>
+
+  <path class="wave" d="M40 70 C120 20, 190 120, 270 70 S420 20, 500 70 S650 120, 730 70 S880 20, 960 70 S1110 120, 1160 70"/>
+  <path class="wave2" d="M40 76 C120 126, 190 26, 270 76 S420 126, 500 76 S650 26, 730 76 S880 126, 960 76 S1110 26, 1160 76"/>
+
+  <circle cx="270" cy="70" r="5" fill="#f59e0b" class="pulse"/>
+  <circle cx="500" cy="70" r="5" fill="#dc2626" class="blink"/>
+  <circle cx="730" cy="70" r="5" fill="#f59e0b" class="pulse"/>
+  <circle cx="960" cy="70" r="5" fill="#dc2626" class="blink"/>
+</svg>
 
