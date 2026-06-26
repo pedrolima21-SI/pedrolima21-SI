@@ -1,6 +1,6 @@
 <!--
   PROFILE README // PEDRO LIMA
-  EDITION: V8 // CONTROLLED MOTION IDENTITY
+  EDITION: V8.1 // CONTROLLED MOTION + LATEST OPERATIONS
   THEME: SIGINT AMBER // SPECOPS SEC
   STYLE: Red Team | Threat Intel | AppSec | OSINT | Offensive Security
 -->
@@ -410,7 +410,25 @@ mindmap
 
 <img width="100%" src="./assets/signal-divider.svg"/>
 
-## 12 // SIGNAL BOARD
+## 12 // LATEST OPERATIONS
+
+<!-- PLSEC:START_LATEST_OPS -->
+
+```txt
+┌─ LATEST OPERATIONS ──────────────────────────────────────────────────────┐
+│                                                                          │
+│  Status : Waiting for repository signal...                               │
+│                                                                          │
+│  This section is updated by GitHub Actions.                              │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- PLSEC:END_LATEST_OPS -->
+
+<img width="100%" src="./assets/signal-divider.svg"/>
+
+## 13 // SIGNAL BOARD
 
 ```txt
 ┌─ SIGNAL BOARD ───────────────────────────────────────────────────────────┐
@@ -425,7 +443,7 @@ mindmap
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-## 13 // CONTACT CHANNEL
+## 14 // CONTACT CHANNEL
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-lima-sec">
