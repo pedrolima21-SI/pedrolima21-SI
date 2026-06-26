@@ -1,1 +1,158 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #030712; }
+    .panel { fill: #070b14; stroke: #1f2937; }
+    .amber { fill: #f59e0b; }
+    .red { fill: #dc2626; }
+    .green { fill: #22c55e; }
+    .muted { fill: #94a3b8; }
+    .white { fill: #f8fafc; }
+
+```
+.mono {
+  font-family: "JetBrains Mono", "Consolas", monospace;
+  letter-spacing: 1px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 700;
+  fill: #f59e0b;
+}
+
+.small {
+  font-size: 12px;
+  fill: #94a3b8;
+}
+
+.cmd {
+  font-size: 14px;
+  fill: #f8fafc;
+  opacity: 0;
+  animation: reveal 12s linear infinite;
+}
+
+.cmd1 { animation-delay: 0s; }
+.cmd2 { animation-delay: 1.5s; }
+.cmd3 { animation-delay: 3s; }
+.cmd4 { animation-delay: 4.5s; }
+.cmd5 { animation-delay: 6s; }
+.cmd6 { animation-delay: 7.5s; }
+
+.cursor {
+  animation: blink 1s steps(2, start) infinite;
+}
+
+.scan {
+  animation: scan 5s linear infinite;
+}
+
+.pulse {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.bar1 {
+  transform-origin: 760px 116px;
+  animation: grow1 4s ease-in-out infinite;
+}
+
+.bar2 {
+  transform-origin: 760px 156px;
+  animation: grow2 5s ease-in-out infinite;
+}
+
+.bar3 {
+  transform-origin: 760px 196px;
+  animation: grow3 6s ease-in-out infinite;
+}
+
+@keyframes reveal {
+  0%, 8% { opacity: 0; transform: translateY(6px); }
+  12%, 85% { opacity: 1; transform: translateY(0); }
+  95%, 100% { opacity: 0; }
+}
+
+@keyframes blink {
+  0%, 45% { opacity: 1; }
+  46%, 100% { opacity: 0.15; }
+}
+
+@keyframes scan {
+  0% { transform: translateY(-300px); opacity: 0; }
+  20% { opacity: 0.35; }
+  80% { opacity: 0.35; }
+  100% { transform: translateY(300px); opacity: 0; }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.35; }
+  50% { opacity: 1; }
+}
+
+@keyframes grow1 {
+  0%, 100% { transform: scaleX(0.62); }
+  50% { transform: scaleX(0.9); }
+}
+
+@keyframes grow2 {
+  0%, 100% { transform: scaleX(0.48); }
+  50% { transform: scaleX(0.78); }
+}
+
+@keyframes grow3 {
+  0%, 100% { transform: scaleX(0.38); }
+  50% { transform: scaleX(0.68); }
+}
+```
+
+  </style>
+
+  <rect class="bg" width="1200" height="300" rx="18"/>
+
+  <g opacity="0.6">
+    <path d="M0 50H1200" stroke="#1f2937"/>
+    <path d="M0 100H1200" stroke="#1f2937"/>
+    <path d="M0 150H1200" stroke="#1f2937"/>
+    <path d="M0 200H1200" stroke="#1f2937"/>
+    <path d="M0 250H1200" stroke="#1f2937"/>
+    <path d="M100 0V300" stroke="#1f2937"/>
+    <path d="M200 0V300" stroke="#1f2937"/>
+    <path d="M300 0V300" stroke="#1f2937"/>
+    <path d="M400 0V300" stroke="#1f2937"/>
+    <path d="M500 0V300" stroke="#1f2937"/>
+    <path d="M600 0V300" stroke="#1f2937"/>
+    <path d="M700 0V300" stroke="#1f2937"/>
+    <path d="M800 0V300" stroke="#1f2937"/>
+    <path d="M900 0V300" stroke="#1f2937"/>
+    <path d="M1000 0V300" stroke="#1f2937"/>
+    <path d="M1100 0V300" stroke="#1f2937"/>
+  </g>
+
+  <line class="scan" x1="40" y1="0" x2="1160" y2="0" stroke="#f59e0b" stroke-width="2"/>
+
+  <rect x="40" y="35" width="650" height="230" rx="12" class="panel"/>
+  <rect x="720" y="35" width="440" height="230" rx="12" class="panel"/>
+
+<text x="65" y="70" class="mono title">OPERATOR CONSOLE // PL-SEC</text> <text x="65" y="98" class="mono small">session initialized · authorized profile · offensive security track</text>
+
+<text x="65" y="135" class="mono cmd cmd1">┌──(pedro㉿redteam)-[~/signal]</text> <text x="65" y="160" class="mono cmd cmd2">└─$ run --method recon --output evidence</text> <text x="65" y="185" class="mono cmd cmd3">[+] context loaded</text> <text x="65" y="210" class="mono cmd cmd4">[+] signal filtered</text> <text x="65" y="235" class="mono cmd cmd5">[+] evidence first</text> <text x="65" y="260" class="mono cmd cmd6">[+] report with clarity <tspan class="cursor">█</tspan></text>
+
+<text x="750" y="70" class="mono title">MISSION STATUS</text> <text x="750" y="100" class="mono small">foundation → practice → operational maturity</text>
+
+  <circle cx="765" cy="122" r="5" class="green pulse"/>
+  <text x="785" y="127" class="mono small">Threat Intel workflow active</text>
+  <rect x="760" y="138" width="310" height="8" rx="4" fill="#111827"/>
+  <rect class="bar1" x="760" y="138" width="310" height="8" rx="4" fill="#f59e0b"/>
+
+  <circle cx="765" cy="162" r="5" class="amber pulse"/>
+  <text x="785" y="167" class="mono small">Web Security labs building</text>
+  <rect x="760" y="178" width="310" height="8" rx="4" fill="#111827"/>
+  <rect class="bar2" x="760" y="178" width="310" height="8" rx="4" fill="#f59e0b"/>
+
+  <circle cx="765" cy="202" r="5" class="red pulse"/>
+  <text x="785" y="207" class="mono small">Red Team methodology evolving</text>
+  <rect x="760" y="218" width="310" height="8" rx="4" fill="#111827"/>
+  <rect class="bar3" x="760" y="218" width="310" height="8" rx="4" fill="#dc2626"/>
+
+<text x="750" y="252" class="mono small">SIGNATURE: NO NOISE · NO ASSUMPTIONS · EVIDENCE FIRST</text> </svg>
 
