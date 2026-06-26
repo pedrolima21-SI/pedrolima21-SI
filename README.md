@@ -1,7 +1,7 @@
 <!--
   PROFILE README // PEDRO LIMA
-  EDITION: V7 MOTION // SIGINT OPERATOR
-  THEME: Amber Phosphor // Animated Intelligence Panel
+  EDITION: V8 // CONTROLLED MOTION IDENTITY
+  THEME: SIGINT AMBER // SPECOPS SEC
   STYLE: Red Team | Threat Intel | AppSec | OSINT | Offensive Security
 -->
 
@@ -30,28 +30,28 @@
   </a>
 </p>
 
+<img width="100%" src="./assets/operator-console.svg"/>
+
 <img width="100%" src="./assets/signal-divider.svg"/>
 
 <div align="center">
 
 ```txt
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                     SIGINT // SPECOPS SEC // OPERATOR PROFILE              ║
+║                     SIGINT // SPECOPS SEC // OPERATOR PROFILE                ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  Identity      : Pedro Lima                                                 ║
-║  Callsign      : PL-SEC                                                     ║
-║  Domain        : Offensive Security                                         ║
-║  Focus         : Red Team | Threat Intel | AppSec | OSINT                   ║
-║  Method        : Recon → Validate → Evidence → Report                       ║
-║  Operating Mode: Learning by doing | Method over noise                      ║
-║  Principle     : Ethics, authorization, precision and discipline            ║
-║  Signature     : Context before exploitation.                               ║
+║  Identity      : Pedro Lima                                                  ║
+║  Callsign      : PL-SEC                                                      ║
+║  Domain        : Offensive Security                                          ║
+║  Focus         : Red Team | Threat Intel | AppSec | OSINT                    ║
+║  Method        : Recon → Validate → Evidence → Report                        ║
+║  Operating Mode: Learning by doing | Method over noise                       ║
+║  Principle     : Ethics, authorization, precision and discipline             ║
+║  Signature     : Context before exploitation.                                ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
-
-<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 01 // OPERATOR PROFILE
 
@@ -81,11 +81,11 @@ Não busco apenas executar ferramentas. Busco entender o ambiente, reduzir ruíd
 ```txt
 ┌─ MISSION BRIEF ──────────────────────────────────────────────────────────┐
 │                                                                          │
-│  Objective     : Build offensive security capability with method          │
-│  Focus Area    : Red Team | Threat Intel | AppSec | OSINT                 │
-│  Current Phase : Foundation → Practice → Operational maturity             │
-│  Approach      : Learn, validate, document and communicate                │
-│  Constraint    : Authorized operations only                               │
+│  Objective     : Build offensive security capability with method         │
+│  Focus Area    : Red Team | Threat Intel | AppSec | OSINT                │
+│  Current Phase : Foundation → Practice → Operational maturity            │
+│  Approach      : Learn, validate, document and communicate               │
+│  Constraint    : Authorized operations only                              │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -111,18 +111,16 @@ Não busco apenas executar ferramentas. Busco entender o ambiente, reduzir ruíd
   </tr>
 </table>
 
-<img width="100%" src="./assets/signal-divider.svg"/>
-
 ## 03 // OPERATING DOCTRINE
 
 ```txt
 ┌─ DOCTRINE ───────────────────────────────────────────────────────────────┐
 │                                                                          │
 │  Recon before action.                                                    │
-│  Context before exploitation.                                             │
-│  Evidence before conclusion.                                              │
-│  Communication before impact.                                             │
-│  Discipline before execution.                                             │
+│  Context before exploitation.                                            │
+│  Evidence before conclusion.                                             │
+│  Communication before impact.                                            │
+│  Discipline before execution.                                            │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -164,18 +162,16 @@ DISCIPLINE > IMPULSE
 ```txt
 ┌─ CAPABILITY GRID ────────────────────────────────────────────────────────┐
 │                                                                          │
-│  [01] Reconnaissance      → superfície, ativos expostos e contexto         │
-│  [02] Threat Intelligence → sinais externos, priorização e evidências      │
-│  [03] Web Security        → autenticação, autorização e lógica web         │
-│  [04] AppSec              → validação técnica de riscos reais              │
-│  [05] OSINT               → investigação em fontes públicas                │
-│  [06] Automation          → Python, Bash, parsing e apoio operacional      │
-│  [07] Reporting           → comunicação técnica e executiva                │
+│  [01] Reconnaissance      → superfície, ativos expostos e contexto       │
+│  [02] Threat Intelligence → sinais externos, priorização e evidências    │
+│  [03] Web Security        → autenticação, autorização e lógica web       │
+│  [04] AppSec              → validação técnica de riscos reais            │
+│  [05] OSINT               → investigação em fontes públicas              │
+│  [06] Automation          → Python, Bash, parsing e apoio operacional    │
+│  [07] Reporting           → comunicação técnica e executiva              │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
-
-<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 05 // MISSION PIPELINE
 
@@ -215,18 +211,16 @@ RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDEN
 ```txt
 ┌─ OPERATOR RULESET ───────────────────────────────────────────────────────┐
 │                                                                          │
-│  [01] Never confuse activity with progress.                               │
-│  [02] Never report what cannot be explained.                              │
-│  [03] Never exploit without context and authorization.                     │
-│  [04] Never let the tool think for the operator.                           │
-│  [05] Never trade evidence for assumptions.                                │
-│  [06] Never ignore business impact.                                        │
-│  [07] Never communicate noise as risk.                                     │
+│  [01] Never confuse activity with progress.                              │
+│  [02] Never report what cannot be explained.                             │
+│  [03] Never exploit without context and authorization.                   │
+│  [04] Never let the tool think for the operator.                         │
+│  [05] Never trade evidence for assumptions.                              │
+│  [06] Never ignore business impact.                                      │
+│  [07] Never communicate noise as risk.                                   │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
-
-<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 07 // TECHNICAL ARSENAL
 
@@ -273,20 +267,20 @@ RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDEN
   </tr>
 </table>
 
-<img width="100%" src="./assets/signal-divider.svg"/>
+<img width="100%" src="./assets/signal-wave.svg"/>
 
 ## 08 // CURRENT OBJECTIVES
 
 ```txt
 ┌─ ACTIVE OBJECTIVES ──────────────────────────────────────────────────────┐
 │                                                                          │
-│  [ACTIVE] CompTIA Security+ SY0-701                                       │
-│  [ACTIVE] Web Security Labs                                               │
-│  [ACTIVE] Offensive Security Automation                                   │
-│  [ACTIVE] Active Directory Security                                       │
-│  [ACTIVE] Threat Intelligence Workflows                                   │
-│  [ACTIVE] Red Team Methodology                                            │
-│  [ACTIVE] Technical & Executive Reporting                                 │
+│  [ACTIVE] CompTIA Security+ SY0-701                                      │
+│  [ACTIVE] Web Security Labs                                              │
+│  [ACTIVE] Offensive Security Automation                                  │
+│  [ACTIVE] Active Directory Security                                      │
+│  [ACTIVE] Threat Intelligence Workflows                                  │
+│  [ACTIVE] Red Team Methodology                                           │
+│  [ACTIVE] Technical & Executive Reporting                                │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -307,8 +301,6 @@ RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDEN
     </td>
   </tr>
 </table>
-
-<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 09 // FIELD DOSSIERS
 
@@ -373,18 +365,16 @@ mindmap
       Parsing
 ```
 
-<img width="100%" src="./assets/signal-divider.svg"/>
-
 ## 11 // OPERATIONAL SNAPSHOT
 
 ```txt
 ┌─ OPERATIONAL SNAPSHOT ───────────────────────────────────────────────────┐
 │                                                                          │
-│  Status        : Building offensive security capabilities                 │
-│  Track         : Red Team | Threat Intel | AppSec | OSINT                 │
-│  Focus         : Method, evidence, reporting and practical execution      │
-│  Learning Mode : Labs, notes, automation, documentation and simulation    │
-│  Current Phase : Foundation → Practice → Operational maturity             │
+│  Status        : Building offensive security capabilities                │
+│  Track         : Red Team | Threat Intel | AppSec | OSINT                │
+│  Focus         : Method, evidence, reporting and practical execution     │
+│  Learning Mode : Labs, notes, automation, documentation and simulation   │
+│  Current Phase : Foundation → Practice → Operational maturity            │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -409,11 +399,11 @@ mindmap
 ```txt
 ┌─ DEVELOPMENT VECTOR ─────────────────────────────────────────────────────┐
 │                                                                          │
-│  Security+ SY0-701        █████████░░░  foundation building               │
-│  Web Security Labs        ████████░░░░  practical validation              │
-│  Threat Intel Workflows   ███████░░░░░  signal processing                 │
-│  Offensive Automation     ██████░░░░░░  repeatable execution              │
-│  Red Team Methodology     ███████░░░░░  operational maturity              │
+│  Security+ SY0-701        █████████░░░  foundation building              │
+│  Web Security Labs        ████████░░░░  practical validation             │
+│  Threat Intel Workflows   ███████░░░░░  signal processing                │
+│  Offensive Automation     ██████░░░░░░  repeatable execution             │
+│  Red Team Methodology     ███████░░░░░  operational maturity             │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -425,17 +415,15 @@ mindmap
 ```txt
 ┌─ SIGNAL BOARD ───────────────────────────────────────────────────────────┐
 │                                                                          │
-│  Red Team        : mindset, method, validation and reporting              │
-│  Threat Intel    : external signals, exposure and prioritization          │
-│  AppSec          : web security, auth, headers and business logic          │
-│  OSINT           : public sources, correlation and evidence               │
-│  Automation      : scripts, parsing, repeatability and efficiency          │
-│  Reporting       : technical clarity, executive context and action         │
+│  Red Team        : mindset, method, validation and reporting             │
+│  Threat Intel    : external signals, exposure and prioritization         │
+│  AppSec          : web security, auth, headers and business logic        │
+│  OSINT           : public sources, correlation and evidence              │
+│  Automation      : scripts, parsing, repeatability and efficiency        │
+│  Reporting       : technical clarity, executive context and action       │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
-
-<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 13 // CONTACT CHANNEL
 
@@ -451,27 +439,4 @@ mindmap
   </a>
 </p>
 
-<img width="100%" src="./assets/signal-divider.svg"/>
-
-<div align="center">
-
-```txt
-┌── FINAL TRANSMISSION
-│
-├─ Identity     : Offensive Security
-├─ Callsign     : PL-SEC
-├─ Focus        : Red Team | Intel | AppSec | OSINT
-├─ Method       : Recon → Validate → Evidence → Report
-├─ Discipline   : Method over noise
-├─ Principle    : Authorized operations only
-│
-└─ Signature    : No noise. No assumptions. Evidence first.
-```
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=Recon+before+action.;Evidence+before+conclusion.;Discipline+before+execution.;Context+before+exploitation."/>
-</p>
-
-<img width="100%" src="./assets/signal-divider.svg"/>
+<img width="100%" src="./assets/final-transmission.svg"/>
