@@ -1,1 +1,51 @@
+<svg width="1200" height="64" viewBox="0 0 1200 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .line {
+      stroke: #f59e0b;
+      stroke-width: 2;
+      stroke-dasharray: 18 12;
+      animation: dash 1.8s linear infinite;
+    }
+
+```
+.muted {
+  stroke: #1f2937;
+  stroke-width: 1;
+}
+
+.text {
+  fill: #f59e0b;
+  font-family: "JetBrains Mono", "Consolas", monospace;
+  font-size: 12px;
+  letter-spacing: 3px;
+}
+
+.blink {
+  animation: blink 1.2s steps(2, start) infinite;
+}
+
+@keyframes dash {
+  to { stroke-dashoffset: -60; }
+}
+
+@keyframes blink {
+  0%, 45% { opacity: 1; }
+  46%, 100% { opacity: 0.25; }
+}
+```
+
+  </style>
+
+  <rect width="1200" height="64" fill="#030712"/>
+
+  <line x1="40" y1="32" x2="520" y2="32" class="line"/>
+  <line x1="680" y1="32" x2="1160" y2="32" class="line"/>
+
+  <line x1="40" y1="18" x2="1160" y2="18" class="muted"/>
+  <line x1="40" y1="46" x2="1160" y2="46" class="muted"/>
+
+  <circle cx="40" cy="32" r="4" fill="#dc2626" class="blink"/>
+  <circle cx="1160" cy="32" r="4" fill="#dc2626" class="blink"/>
+
+<text x="548" y="37" class="text">SIGNAL LINK</text> </svg>
 
