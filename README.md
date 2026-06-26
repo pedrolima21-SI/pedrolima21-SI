@@ -1,11 +1,11 @@
 <!--
   PROFILE README // PEDRO LIMA
-  EDITION: V6 PREMIUM // SIGINT OPERATOR FINAL BUILD
-  THEME: Amber Phosphor // Dark Intelligence Panel
+  EDITION: V7 MOTION // SIGINT OPERATOR
+  THEME: Amber Phosphor // Animated Intelligence Panel
   STYLE: Red Team | Threat Intel | AppSec | OSINT | Offensive Security
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:111827,70:1f2937,100:f59e0b&height=195&section=header&text=Pedro%20Lima&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=33&desc=Red%20Team%20%7C%20Threat%20Intel%20%7C%20AppSec%20%7C%20OSINT%20%7C%20Offensive%20Security&descAlignY=57&descSize=15"/>
+<img width="100%" src="./assets/sigint-radar.svg"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=F59E0B&center=true&vCenter=true&width=980&lines=Recon.+Intel.+Evidence.+Report.;Context+before+exploitation.;No+noise.+No+assumptions.+Evidence+first.;Offensive+Security+driven+by+method.;Tools+change.+Fundamentals+remain.;Red+Team+mindset+in+progress."/>
@@ -30,7 +30,7 @@
   </a>
 </p>
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 </div>
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 01 // OPERATOR PROFILE
 
@@ -74,7 +74,7 @@ Não busco apenas executar ferramentas. Busco entender o ambiente, reduzir ruíd
 [+] Method over Noise
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 02 // MISSION BRIEF
 
@@ -111,7 +111,7 @@ Não busco apenas executar ferramentas. Busco entender o ambiente, reduzir ruíd
   </tr>
 </table>
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 03 // OPERATING DOCTRINE
 
@@ -134,7 +134,7 @@ EVIDENCE   > ASSUMPTION
 DISCIPLINE > IMPULSE
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 04 // CAPABILITY MATRIX
 
@@ -175,7 +175,7 @@ DISCIPLINE > IMPULSE
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 05 // MISSION PIPELINE
 
@@ -204,7 +204,7 @@ flowchart LR
 RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDENCE ──► REPORT ──► IMPROVEMENT
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 06 // OPERATOR RULESET
 
@@ -226,7 +226,7 @@ RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDEN
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 07 // TECHNICAL ARSENAL
 
@@ -273,7 +273,7 @@ RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDEN
   </tr>
 </table>
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 08 // CURRENT OBJECTIVES
 
@@ -308,7 +308,7 @@ RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDEN
   </tr>
 </table>
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 09 // FIELD DOSSIERS
 
@@ -347,7 +347,7 @@ RECON ──► INTEL ──► HYPOTHESIS ──► VALIDATION ──► EVIDEN
   </tr>
 </table>
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 10 // KNOWLEDGE MAP
 
@@ -373,7 +373,7 @@ mindmap
       Parsing
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 11 // OPERATIONAL SNAPSHOT
 
@@ -418,7 +418,7 @@ mindmap
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 12 // SIGNAL BOARD
 
@@ -435,7 +435,7 @@ mindmap
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 ## 13 // CONTACT CHANNEL
 
@@ -451,7 +451,7 @@ mindmap
   </a>
 </p>
 
----
+<img width="100%" src="./assets/signal-divider.svg"/>
 
 <div align="center">
 
@@ -474,4 +474,4 @@ mindmap
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=Recon+before+action.;Evidence+before+conclusion.;Discipline+before+execution.;Context+before+exploitation."/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:111827,100:030712&height=125&section=footer"/>
+<img width="100%" src="./assets/signal-divider.svg"/>
