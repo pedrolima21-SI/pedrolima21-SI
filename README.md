@@ -1,54 +1,27 @@
-<div align="center">
+# Pedro Lima — portfólio
 
-# Pedro Lima
+### Segurança da Informação · AppSec · Automação · Documentação
 
-### Segurança da Informação · AppSec · Automação
+Estudante de Segurança da Informação, desenvolvendo estudos e projetos práticos em segurança de aplicações, automação com Python e documentação técnica.
 
-**Estudante de Segurança da Informação, desenvolvendo projetos práticos em segurança, automação e documentação técnica.**
+[LinkedIn](https://www.linkedin.com/in/pedro-lima-sec) · [E-mail](mailto:pedrovitor.lima211@gmail.com) · [Todos os repositórios](https://github.com/pedrolima21-SI?tab=repositories)
 
-[LinkedIn](https://www.linkedin.com/in/pedro-lima-sec) · [E-mail](mailto:pedrovitor.lima211@gmail.com) · [Meus repositórios](https://github.com/pedrolima21-SI?tab=repositories)
+## Projetos em destaque
 
-</div>
-
----
+- [AppSec Labs](https://github.com/pedrolima21-SI/appsec-labs) — exercícios defensivos e documentação de segurança de aplicações em cenários locais ou fictícios.
+- [Security Automation](https://github.com/pedrolima21-SI/security-automation) — utilitários locais em Python para organização e revisão de dados.
+- [Reporting Templates](https://github.com/pedrolima21-SI/reporting-templates) — modelos de documentação técnica e comunicação de risco.
 
 ## Sobre
 
-Este perfil reúne meus projetos, ferramentas e estudos em desenvolvimento na área de Segurança da Informação. Busco transformar aprendizado em trabalhos práticos, claros e bem documentados.
+Este perfil reúne meu aprendizado e projetos em desenvolvimento. Tenho interesse em AppSec, automação, documentação e análise de risco. Procuro trabalhar com escopo claro, evidências, limitações explícitas e uso responsável.
 
-Tenho interesse em **segurança de aplicações (AppSec)**, **OSINT e inteligência de ameaças**, **automação com Python** e **relatórios técnicos**. Estou em constante aprendizado e procuro deixar explícitos o escopo, as limitações e o estado de cada projeto.
+## Tecnologias em estudo/prática
 
-## Projetos
+Python · Bash · Git · GitHub · Linux · Markdown · Docker
 
-Abaixo estão repositórios públicos atualizados recentemente. Cada repositório contém — ou deverá conter — a descrição do problema, instruções de uso, estado do projeto e próximos passos.
-
-<!-- PLSEC:START_LATEST_OPS -->
-
-_Projetos públicos recentes serão listados aqui automaticamente._
-
-<!-- PLSEC:END_LATEST_OPS -->
-
-## Áreas de interesse
-
-- **Segurança de aplicações:** fundamentos de segurança web, autenticação, autorização e análise de riscos.
-- **OSINT e inteligência de ameaças:** pesquisa em fontes públicas, organização de sinais e registro de evidências.
-- **Automação:** scripts e ferramentas para tarefas repetitivas, com atenção à clareza, segurança e uso responsável.
-- **Relatórios técnicos:** documentação objetiva de contexto, evidências, impacto, limitações e recomendações.
-
-## Como trabalho
-
-Procuro entender o contexto antes de testar, validar hipóteses, registrar evidências e comunicar resultados com clareza. Demonstrações e testes de segurança são realizados somente em ambientes próprios, laboratórios ou sistemas para os quais exista autorização explícita. Não publico dados sensíveis.
-
-## Tecnologias
-
-**Linguagens:** Python · Bash · JavaScript  
-**Ferramentas e ambientes:** Git · Linux · Docker
-
-> As tecnologias refletem áreas de estudo e prática; a experiência varia conforme o projeto.
+> Portfólio em desenvolvimento. As descrições indicam estudos e projetos pessoais, não experiência profissional consolidada.
 
 ## Contato
 
-Estou aberto a conversas sobre projetos, colaboração e oportunidades profissionais.
-
-- [LinkedIn](https://www.linkedin.com/in/pedro-lima-sec)
-- [E-mail](mailto:pedrovitor.lima211@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-lima-sec) · [E-mail](mailto:pedrovitor.lima211@gmail.com)
