@@ -4,7 +4,7 @@
 
 ### Cybersecurity · AppSec · Offensive Security · Python Automation
 
-**Security Engineer em formação com foco em Segurança Ofensiva, Web & API Security, AppSec e automação de testes e evidências em Python.**
+**Security Engineer em formação com foco em Segurança Ofensiva, Web & API Security, AppSec e automação de verificação e evidências em Python.**
 
 [LinkedIn](https://www.linkedin.com/in/pedro-lima-sec) · [E-mail](mailto:pedrovitor.lima211@gmail.com) · [GitHub](https://github.com/pedrolima21-SI) · [Repositórios](https://github.com/pedrolima21-SI?tab=repositories)
 

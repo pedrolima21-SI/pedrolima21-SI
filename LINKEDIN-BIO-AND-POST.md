@@ -1,15 +1,17 @@
 ## Bio curta para LinkedIn
 
-Estudante de Segurança da Informação | Interesse em AppSec, automação com Python e documentação técnica | Construindo projetos e estudos práticos com foco em uso responsável.
+Security Engineer em formação | AppSec | Offensive Security | Python Automation | Portfólio em desenvolvimento.
 
-## Post de apresentação
+## Post completo
 
-Estou organizando meu portfólio de estudos em Segurança da Informação, com foco em segurança de aplicações (AppSec), automação com Python e documentação técnica.
+Estou desenvolvendo meu portfólio em Segurança da Informação com foco em AppSec, segurança ofensiva, automação em Python e documentação técnica.
 
-Tenho trabalhado em exercícios defensivos de controle de acesso, pequenos utilitários locais para organização de dados e modelos de documentação. Os projetos estão em desenvolvimento e usam cenários fictícios ou dados de teste; vou registrar também as limitações e o que ainda preciso aprender.
+Minha rotina atual está centrada em laboratórios locais e cenários fictícios para estudar controle de acesso, autenticação, revisão de permissões, validação de entradas e organização de evidências. Também tenho interesse em Web & API Security, Threat Intelligence e Segurança de IA.
 
-Meu objetivo é evoluir com consistência, transformar estudo em entregas reproduzíveis e compartilhar o processo com transparência.
+Meu objetivo é evoluir com projetos práticos, documentação clara e evidências verificáveis, mantendo sempre o foco em uso responsável, contexto e rigor técnico.
 
-🔗 Portfólio: https://github.com/pedrolima21-SI
+Acredito que um bom portfólio não é apenas visual; ele precisa refletir raciocínio, metodologia e capacidade de comunicar riscos com clareza.
 
-#SegurançaDaInformação #AppSec #Python #AprendizadoContínuo
+🔗 GitHub: https://github.com/pedrolima21-SI
+
+#Cybersecurity #AppSec #OffensiveSecurity #Python #SecurityEngineering #Pentest #WebSecurity #ThreatIntelligence
