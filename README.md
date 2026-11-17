@@ -95,11 +95,9 @@ Este é um portfólio em desenvolvimento, focado em demonstrar:
 - automação e investigação aplicada
 - clareza na comunicação de riscos e evidências
 
-Os projetos publicados demonstram estudo, organização e evolução técnica, mas não devem ser interpretados como experiência profissional consolidada em segurança ofensiva ou avaliação de terceiros sem evidência e autorização.
-
 ## Certificações e credenciais
 
-Não há certificações publicadas neste repositório que possam ser validadas como oficiais. A apresentação técnica aqui é baseada em projetos, estudos e documentação reproduzível.
+Não há certificações publicadas neste repositório.
 
 ## Contato
 
